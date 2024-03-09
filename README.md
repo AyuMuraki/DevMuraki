@@ -24,6 +24,16 @@
 <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,cs,eclipse,c,java" />
+  </a>
+</p>
+
+
+
+
+
 ##
 
 ![ Ayumi GitHub stats](https://github-readme-stats.vercel.app/api?username=AyuMuraki&show_icons=true&theme=rose)
