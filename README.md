@@ -18,11 +18,7 @@
 
 # 💻 Tech Stack
 
-<div style="display: inline_block">
-<img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-</div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
